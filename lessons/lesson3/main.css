@@ -1,0 +1,16 @@
+.product-card {
+    height: 400px;
+    width: 400px;
+    border: 1px black solid;
+    border-radius: 5px;
+}
+
+.product-title {
+    text-align: center;
+    color: blue;
+
+}
+.product-image {
+    width: 200px;
+    height: 250px;
+}
