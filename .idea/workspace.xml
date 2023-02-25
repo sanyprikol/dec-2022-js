@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a98b3753-3295-467d-9d0a-77fc94ba33b7" name="Changes" comment="home work 4">
-      <change afterPath="$PROJECT_DIR$/lessons/lesson 5/home-work5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson 5/home-work5.js" afterDir="false" />
+    <list default="true" id="a98b3753-3295-467d-9d0a-77fc94ba33b7" name="Changes" comment="home work 5">
+      <change afterPath="$PROJECT_DIR$/lessons/lesson6/home-work6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson6/home-work6.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons/lesson4/home-work4.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson4/home-work4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,12 @@
       <workItem from="1676303711609" duration="4823000" />
       <workItem from="1676315778202" duration="4458000" />
       <workItem from="1676404077217" duration="1845000" />
-      <workItem from="1676487749462" duration="3327000" />
+      <workItem from="1676487749462" duration="3388000" />
+      <workItem from="1676568354469" duration="117000" />
+      <workItem from="1676747436631" duration="1435000" />
+      <workItem from="1676825560279" duration="6798000" />
+      <workItem from="1676910151545" duration="4060000" />
+      <workItem from="1677341061806" duration="665000" />
     </task>
     <task id="LOCAL-00001" summary="home work 1">
       <created>1675286823186</created>
@@ -115,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676320471604</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="home work 5">
+      <created>1676491392166</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676491392166</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +138,8 @@
     <MESSAGE value="home work 3" />
     <MESSAGE value="home work 3." />
     <MESSAGE value="home work 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="home work 4" />
+    <MESSAGE value="home work 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="home work 5" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
