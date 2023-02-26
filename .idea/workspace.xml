@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a98b3753-3295-467d-9d0a-77fc94ba33b7" name="Changes" comment="home work 5">
-      <change afterPath="$PROJECT_DIR$/lessons/lesson6/home-work6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson6/home-work6.js" afterDir="false" />
+    <list default="true" id="a98b3753-3295-467d-9d0a-77fc94ba33b7" name="Changes" comment="home work 6">
+      <change afterPath="$PROJECT_DIR$/lessons/lesson8/home-work8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson8/home-work8.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,8 @@
       <workItem from="1676747436631" duration="1435000" />
       <workItem from="1676825560279" duration="6798000" />
       <workItem from="1676910151545" duration="4060000" />
-      <workItem from="1677341061806" duration="665000" />
+      <workItem from="1677341061806" duration="10686000" />
+      <workItem from="1677432880528" duration="2276000" />
     </task>
     <task id="LOCAL-00001" summary="home work 1">
       <created>1675286823186</created>
@@ -126,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676491392166</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="home work 6">
+      <created>1677341781696</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677341781696</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +147,8 @@
     <MESSAGE value="home work 3." />
     <MESSAGE value="home work 4" />
     <MESSAGE value="home work 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="home work 5" />
+    <MESSAGE value="home work 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="home work 6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
