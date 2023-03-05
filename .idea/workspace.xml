@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a98b3753-3295-467d-9d0a-77fc94ba33b7" name="Changes" comment="home work 6">
-      <change afterPath="$PROJECT_DIR$/lessons/lesson8/home-work8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson8/home-work8.js" afterDir="false" />
+    <list default="true" id="a98b3753-3295-467d-9d0a-77fc94ba33b7" name="Changes" comment="home work 8">
+      <change afterPath="$PROJECT_DIR$/lessons/lesson9/home-work9.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson9/home-work9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson9/home-work9.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,9 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -48,7 +49,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -83,7 +84,13 @@
       <workItem from="1676825560279" duration="6798000" />
       <workItem from="1676910151545" duration="4060000" />
       <workItem from="1677341061806" duration="10686000" />
-      <workItem from="1677432880528" duration="2276000" />
+      <workItem from="1677432880528" duration="2313000" />
+      <workItem from="1677687233134" duration="4578000" />
+      <workItem from="1677778038976" duration="23000" />
+      <workItem from="1677861943822" duration="5800000" />
+      <workItem from="1677948385090" duration="7249000" />
+      <workItem from="1678029528827" duration="2886000" />
+      <workItem from="1678041736299" duration="1479000" />
     </task>
     <task id="LOCAL-00001" summary="home work 1">
       <created>1675286823186</created>
@@ -134,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677341781696</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="home work 8">
+      <created>1677435183114</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677435183114</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +162,19 @@
     <MESSAGE value="home work 4" />
     <MESSAGE value="home work 5" />
     <MESSAGE value="home work 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="home work 6" />
+    <MESSAGE value="home work 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="home work 8" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lessons/lesson9/home-work9.js</url>
+          <line>156</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
