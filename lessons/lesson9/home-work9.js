@@ -4,6 +4,7 @@
 // - додати цей блок в body.
 // - клонувати його повністю, та додати клон в body.
 
+
 // const htmlDivElement = document.createElement('div');
 // htmlDivElement.setAttribute('class', 'wrap, collapse, alpha, beta');
 // htmlDivElement.style.background = 'blue';
