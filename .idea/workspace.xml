@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a98b3753-3295-467d-9d0a-77fc94ba33b7" name="Changes" comment="home work 9">
-      <change beforePath="$PROJECT_DIR$/lessons/lesson9/home-work9.css" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson9/home-work9.css" afterDir="false" />
+    <list default="true" id="a98b3753-3295-467d-9d0a-77fc94ba33b7" name="Changes" comment="home work  9">
       <change beforePath="$PROJECT_DIR$/lessons/lesson9/home-work9.html" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson9/home-work9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons/lesson9/home-work9.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson9/home-work9.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +87,7 @@
       <workItem from="1677861943822" duration="5800000" />
       <workItem from="1677948385090" duration="7249000" />
       <workItem from="1678029528827" duration="2886000" />
-      <workItem from="1678041736299" duration="1778000" />
+      <workItem from="1678041736299" duration="2690000" />
     </task>
     <task id="LOCAL-00001" summary="home work 1">
       <created>1675286823186</created>
@@ -154,7 +152,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678043425297</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="home work  9">
+      <created>1678043552210</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678043552210</updated>
+    </task>
+    <task id="LOCAL-00011" summary="home work  9">
+      <created>1678043578385</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678043578385</updated>
+    </task>
+    <task id="LOCAL-00012" summary="home work  9">
+      <created>1678043628648</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678043628648</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +189,8 @@
     <MESSAGE value="home work 6" />
     <MESSAGE value="home work 8" />
     <MESSAGE value="home work 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="home work 9" />
+    <MESSAGE value="home work  9" />
+    <option name="LAST_COMMIT_MESSAGE" value="home work  9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
