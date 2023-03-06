@@ -36,7 +36,6 @@
 //     {title: 'FullStack', monthDuration: 7},
 //     {title: 'Frontend', monthDuration: 4}
 // ];
-
 // Для кожного елементу масиву зробити блок в якому вивести інформацію про title та monthDuration
 // Завдання робити через цикли.
 
