@@ -1,0 +1,93 @@
+body {
+    background: darkslategrey;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.wrap {
+    width: 45%;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background: antiquewhite;
+    color: blue;
+    justify-content: center;
+    margin: 2px;
+    text-align: justify;
+    display: flex;
+    font-size: 25px;
+    align-items: center;
+
+
+}
+.user {
+    width: 100%;
+    background: antiquewhite;
+    font-size: 20px;
+    align-items: center;
+    text-align: justify;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.key {
+    border: 1px solid blue;
+    border-radius: 5px;
+    background: antiquewhite;
+    height: 25px;
+}
+.buttonPost {
+    background: crimson;
+    height: 40px;
+    width: 100%;
+    border-radius: 5px;
+
+}
+.divTitle {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-around;
+}
+.titlePost {
+    color: ghostwhite;
+    border: 0.5px solid aliceblue;
+    border-radius: 2px;
+    margin: 2px;
+    height: 60px;
+    width: 23%;
+    text-align: center;
+    padding: 5px;
+    font-size: 18px;
+    background: sandybrown;
+}
+
+.division {
+    padding-top: 5px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+.post {
+    width: 100%;
+    background: antiquewhite;
+    border-radius: 5px;
+    font-size: 25px;
+}
+.comments {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.commentDiv {
+    background: sandybrown;
+    width: 24.5%;
+    border-radius: 4px;
+    margin-top: 3px;
+}

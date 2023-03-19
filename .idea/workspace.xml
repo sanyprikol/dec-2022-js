@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a98b3753-3295-467d-9d0a-77fc94ba33b7" name="Changes" comment="home work  9" />
+    <list default="true" id="a98b3753-3295-467d-9d0a-77fc94ba33b7" name="Changes" comment="home work  9">
+      <change afterPath="$PROJECT_DIR$/lessons/lesson10/home-work10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson10/home-work10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/mini-project/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/mini-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/mini-project/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/mini-project/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/mini-project/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/mini-project/post-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/mini-project/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/mini-project/user-details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,9 +62,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\dec-2022-js\lessons\mini-project" />
+      <recent name="C:\Users\admin\IdeaProjects\dec-2022-js\lessons\mini-project\post-details" />
+      <recent name="C:\Users\admin\IdeaProjects\dec-2022-js\lessons\mini-project\user-details" />
+      <recent name="C:\Users\admin\IdeaProjects\dec-2022-js\lessons\mini-project\index" />
       <recent name="C:\Users\admin\IdeaProjects\dec-2022-js\lessons\lesson 5" />
-      <recent name="C:\Users\admin\IdeaProjects\dec-2022-js\lessons" />
-      <recent name="C:\Users\admin\IdeaProjects\dec-2022-js\lesson1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -87,7 +101,18 @@
       <workItem from="1678029528827" duration="2886000" />
       <workItem from="1678041736299" duration="3134000" />
       <workItem from="1678044987698" duration="902000" />
-      <workItem from="1678125170132" duration="989000" />
+      <workItem from="1678125170132" duration="3603000" />
+      <workItem from="1678637141872" duration="9337000" />
+      <workItem from="1678726582221" duration="3178000" />
+      <workItem from="1678734297011" duration="1130000" />
+      <workItem from="1678811046137" duration="11733000" />
+      <workItem from="1678897907556" duration="3713000" />
+      <workItem from="1678903845041" duration="5047000" />
+      <workItem from="1678986719596" duration="8747000" />
+      <workItem from="1679030003221" duration="331000" />
+      <workItem from="1679071531198" duration="10423000" />
+      <workItem from="1679158569347" duration="10912000" />
+      <workItem from="1679233083921" duration="1233000" />
     </task>
     <task id="LOCAL-00001" summary="home work 1">
       <created>1675286823186</created>
@@ -236,7 +261,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678125652968</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="home work  9">
+      <created>1678126177769</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1678126177769</updated>
+    </task>
+    <task id="LOCAL-00023" summary="home work  9">
+      <created>1678126340877</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1678126340877</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +311,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/lessons/lesson9/home-work9.js</url>
-          <line>157</line>
+          <line>156</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
